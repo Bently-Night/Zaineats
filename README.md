@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zaineats
+- 👋 Hi, I’m @Bently-Night
 - 👀 I’m interested in html, css and javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing
